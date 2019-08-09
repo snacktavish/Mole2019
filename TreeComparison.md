@@ -128,7 +128,7 @@ Once you have accepted names for each of the taxa, click "save nameset".
 
 Download it to your laptop.
 Extract the file.
-Take a look at the human readable version (main.csv) and transfer the main.json file to the tutorial folder on the cluster.
+Take a look at the human readable version (output/main.csv) and transfer the main.json file to the tutorial folder on the cluster.
 
 ### Using API's
 You can use the OpenTree API's to get the tree for a subset of taxa directly from the command line
