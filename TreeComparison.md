@@ -136,7 +136,7 @@ You can use the OpenTree API's to get the tree for a subset of taxa directly fro
 
 For example:
 ```
-curl -X POST https://api.opentreeoflife.org/v3/tree_of_life/induced_subtree -H "content-type:application/json" -d '{"ott_ids":[292466, 267845, 666104, 316878]}'
+curl -X POST https://api.opentreeoflife.org/v3/tree_of_life/induced_subtree -H "content-type:application/json" -d '{"ott_ids":[292466, 267845, 285198, 316878]}'
 ```
 For more on the OpenTree APIs see https://github.com/OpenTreeOfLife/germinator/wiki/Open-Tree-of-Life-Web-APIs
 
