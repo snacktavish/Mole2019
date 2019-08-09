@@ -102,7 +102,7 @@ In order to do so, you need to map taxon names to unique identifiers.
 Get the tutorial folder using
 ```
     git clone https://github.com/snacktavish/Mole2019.git
-    cd  WH2019/tutorial
+    cd Mole2019/tutorial/
 ```
 
 The names of the taxa you included used in your tree estimation in Minh's lab are in the file
@@ -111,11 +111,12 @@ The names of the taxa you included used in your tree estimation in Minh's lab ar
 
 We will map them to unique identifiers using the Open Tree TNRS bulk upload tool https://tree.opentreeoflife.org/curator/tnrs/
 
-(This is a brand new beta-versionof the site, some parts are a bit finicky).
+(This is a brand new beta-version of the site, some parts are a bit finicky).
 
-  * Click on "add names", and upload the names file. (tutorial/species_names.txt)  
+  * Click on "add names", and upload the names file. (tutorial/species_names.txt) 
+    - click the `x` in the corner to dismiss the pop-up menu
   * In the mapping options section,
-    - select 'animals' to narrow down the possibilities and speed up mapping
+    - select 'Animals' to narrow down the possibilities and speed up mapping
     - set it to replace '\_' with ' '
   * Click "Map selected names"
 
